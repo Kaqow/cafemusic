@@ -1,0 +1,17 @@
+{
+  "name": "cafe-music",
+  "version": "1.0.0",
+  "description": "Cafe Moosiac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kapow",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-opus": "^0.3.1",
+    "simple-youtube-api": "^5.1.1",
+    "ytdl-core": "^0.28.2"
+  }
+}
